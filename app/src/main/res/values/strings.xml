@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="clear">C</string>
+    <string name="exp">^</string>
+    <string name="openPar">(</string>
+    <string name="closedPar">)</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="negative">+/-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="backspace">←</string>
+    <string name="display">Enter value here</string>
+    <string name="previous_text"> </string>
+
+    <string name="Sin">sin</string>
+    <string name="Cos">cos</string>
+    <string name="Tan">tan</string>
+    <string name="SinIn">sin<sup><small>-1</small></sup></string>
+    <string name="CosIn">cos<sup><small>-1</small></sup></string>
+    <string name="TanIn">tan<sup><small>-1</small></sup></string>
+    <string name="LogN">ln</string>
+    <string name="Log">log</string>
+    <string name="sqRoot">√</string>
+    <string name="piText">π</string>
+    <string name="exp2">e</string>
+    <string name="xSqText">x<sup><small>2</small></sup></string>
+    <string name="xCubeText">x<sup><small>3</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+
+</resources>
